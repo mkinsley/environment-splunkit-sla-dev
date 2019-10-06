@@ -24,7 +24,7 @@ gitops: true
 ingress:
   domain: boot.bdd.jenkins-x.rocks
   externalDNS: true
-  namespaceSubDomain: -jx.
+  namespaceSubDomain:  ""
   tls:
     email: jenkins-x@googlegroups.com
     enabled: true

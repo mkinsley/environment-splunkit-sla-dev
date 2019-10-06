@@ -43,7 +43,7 @@ gitops: true
 ingress:
   domain: sla-dev.splunkit.io
   externalDNS: true
-  namespaceSubDomain: -jx.
+  namespaceSubDomain: ""
   tls:
     email: itops-sub@splunk.com
     enabled: true
